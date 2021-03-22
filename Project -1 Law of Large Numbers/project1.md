@@ -1,11 +1,11 @@
 # DESCRIPTION
 
 **Test the Law of Large Numbers for N random normally distributed numbers with the mean=0 and standard deviation (stdev)=1.
-Using a python script, count how mant of these generated numbers fall between the intervals of -1 and 1 and divide the total quantity of N.
+**Using a python script, count how mant of these generated numbers fall between the intervals of -1 and 1 and divide the total quantity of N.
 
-# Data Known: Expected value of x (E(x))= 68.2%
+**Data Known: Expected value of x (E(x))= 68.2%
 
-# Check Mean(Xn)~ E(x) as the script runs with increasing N values**
+**Check Mean(Xn)~ E(x) as the script runs with increasing N values**
 
 # SOLUTION
 
