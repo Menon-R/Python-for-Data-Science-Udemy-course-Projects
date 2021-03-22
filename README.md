@@ -3,7 +3,7 @@ Projects done on python from the Udemy course for Data Science using python.
 
 The projetcs are listed below with a description of the project and steps in which it was solved. The python file .ipynb is also made availabe in each project folder.
 
-## [Project - 1](https://github.com/Menon-R/Python-for-Data-Science-Udemy-course-Projects/blob/master/Project%20-1%20Law%20of%20Large%20Numbers/project1.md)
+## [Project - 1](https://github.com/Menon-R/Python-for-Data-Science-Udemy-course-Projects/blob/master/Project%20-1%20Law%20of%20Large%20Numbers)
 
 **Law of Large Numbers (LLN)**
 
