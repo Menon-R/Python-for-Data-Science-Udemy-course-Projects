@@ -3,7 +3,7 @@ Projects done on python from the Udemy course for Data Science using python.
 
 The projetcs are listed below with a description of the project and steps in which it was solved. The python file .ipynb is also made availabe in each project folder.
 
-## [Project - 1](/Project-1LawofLargeNumbers/project1.md)
+## [Project - 1](Project-1LawofLargeNumbers/project1.md)
 
 **Law of Large Numbers (LLN)**
 
