@@ -13,4 +13,4 @@ A probabilty theorem to prove that as the sample size grows, the mean gets close
 
 **Financial Statement Analysis**
 
-A probabilty theorem to prove that as the sample size grows, the mean gets closer to the average of the population. This principle can be used in *Risk management*, where if the amount of exposure to losses increases, then the predicted loss gets closer to the actual loss. Whereas in a *financial context*, it states that a larger entitiy that is growing rapidly cannot maintain its growth pace forever.
+Analysisng the given data of financial statemenet for decion-making purpose. In this we calculate the net profit for each month alsong with profit after tax and profit margin.
