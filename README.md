@@ -9,7 +9,7 @@ The projetcs are listed below with a description of the project and steps in whi
 
 A probabilty theorem to prove that as the sample size grows, the mean gets closer to the average of the population. This principle can be used in *Risk management*, where if the amount of exposure to losses increases, then the predicted loss gets closer to the actual loss. Whereas in a *financial context*, it states that a larger entitiy that is growing rapidly cannot maintain its growth pace forever.
 
-## [Project - 2](https://github.com/Menon-R/Python-for-Data-Science-Udemy-course-Projects/blob/master/Project%20-1%20Law%20of%20Large%20Numbers)
+## [Project - 2](https://github.com/Menon-R/Python-for-Data-Science-Udemy-course-Projects/blob/master/)
 
 **Financial Statement Analysis**
 
